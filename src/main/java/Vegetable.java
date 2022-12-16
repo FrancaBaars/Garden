@@ -61,8 +61,7 @@ public abstract class Vegetable {
         this.status = status;
     }
 
-    public void grow(int Lux, int rain, int days) {
-    }
+    public abstract void grow(int Lux, int rain, int days);
 
     public void checkGrowth(int maxSize) {
         if (this.size >= maxSize) {
