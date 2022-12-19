@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8970d5d-12d6-4138-a22c-aea29511bfdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="a8970d5d-12d6-4138-a22c-aea29511bfdb" name="Changes" comment="Add Garden">
       <change afterPath="$PROJECT_DIR$/src/main/java/Carrot.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Colour.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Garden.java" afterDir="false" />
@@ -18,11 +12,17 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/RedKale.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Status.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Vegetable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,8 +65,16 @@
       <workItem from="1670946386791" duration="3066000" />
       <workItem from="1671021761418" duration="2105000" />
       <workItem from="1671116331097" duration="1049000" />
-      <workItem from="1671194117641" duration="1356000" />
+      <workItem from="1671194117641" duration="2369000" />
     </task>
+    <task id="LOCAL-00001" summary="Add Garden">
+      <created>1671195716988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671195716988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +90,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add Garden" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Garden" />
   </component>
 </project>
